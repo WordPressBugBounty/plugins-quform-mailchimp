@@ -3,7 +3,7 @@ Contributors: ThemeCatcher
 Donate link: https://www.themecatcher.net/#buy-us-a-coffee
 Tags: mailchimp, form builder, email marketing, forms, quform, gdpr
 Requires at least: 4.6
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: 1.3.1
 Requires PHP: 5.2.4
 License: GPLv2 or later
